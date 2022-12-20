@@ -1,0 +1,15 @@
+body::before {
+  display: block;
+  content: '';
+  height: 60px;
+}
+
+i{
+  padding: 0 0 0 40px;}
+
+
+@media (min-width: 768px) {
+  .news-input {
+    width: 50%;
+  }
+}
